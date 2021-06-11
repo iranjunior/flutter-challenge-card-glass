@@ -3,7 +3,8 @@
 Esse projeto é um desafio onde construiu um cartão no estilo Glassmorphism
 
 <img src="docs/image.png" alt="navegacao entre as páginas" height="500">
-### Descrição
+
+## Descrição
 
 Desafio de construção de um cartão usando o Glassmorphim em flutter. A construção desse projeto está disponível no instagram. E todas as minhas redes estão abaixo para esclarecimento de dúvidas.
 
